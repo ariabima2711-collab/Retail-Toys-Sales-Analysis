@@ -1,0 +1,1001 @@
+,order_date,product_name,category,branch_store,quantity,sales_value,profit
+0,2024-10-08,Water Blaster,Outdoor Toy,Jakarta Central,4,144000,19423
+1,2025-03-08,Super Robot X,Action Figure,Medan Center,1,11000,1357
+2,2024-07-22,Math Puzzle Cube,Educational Toy,Medan Center,12,1092000,300661
+3,2025-08-26,Baby Joy,Doll,Yogyakarta Plaza,5,555000,176115
+4,2024-10-11,Coding Robot,Educational Toy,Surabaya Mall,3,105000,35626
+5,2025-01-24,Treasure Hunt,Board Game,Jakarta Central,2,106000,33058
+6,2025-04-15,City Construction Kit,Building Blocks,Jakarta Central,9,207000,71058
+7,2024-10-27,Princess Bella,Doll,Medan Center,14,1232000,313704
+8,2024-03-12,Kingdom Strategy,Board Game,Bali Beachwalk,1,92000,14441
+9,2024-04-13,Treasure Hunt,Board Game,Bandung Square,7,301000,64219
+10,2024-12-29,Kingdom Strategy,Board Game,Surabaya Mall,4,372000,62028
+11,2025-10-12,Water Blaster,Outdoor Toy,Medan Center,3,228000,64360
+12,2024-10-03,Coding Robot,Educational Toy,Yogyakarta Plaza,15,1335000,363174
+13,2024-08-22,Alphabet Blocks,Educational Toy,Jakarta Central,14,168000,50611
+14,2024-08-04,Fashion Star,Doll,Jakarta Central,15,1200000,382910
+15,2025-05-26,Kingdom Strategy,Board Game,Bali Beachwalk,7,630000,135269
+16,2025-07-28,Kingdom Strategy,Board Game,Bandung Square,9,369000,105812
+17,2024-08-12,Dream House Doll,Doll,Surabaya Mall,3,219000,48919
+18,2025-10-04,Super Robot X,Action Figure,Bandung Square,3,327000,88329
+19,2025-01-25,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,10,670000,155626
+20,2024-04-27,Creative Bricks Set,Building Blocks,Bali Beachwalk,11,836000,240533
+21,2024-10-27,Bubble Machine,Outdoor Toy,Jakarta Central,7,196000,41832
+22,2024-07-01,Bubble Machine,Outdoor Toy,Medan Center,9,189000,60032
+23,2025-01-17,Kingdom Strategy,Board Game,Bandung Square,13,364000,85483
+24,2024-11-27,Creative Bricks Set,Building Blocks,Medan Center,8,80000,10237
+25,2024-02-29,Mystery Mansion,Board Game,Bandung Square,4,480000,116082
+26,2025-05-12,Super Robot X,Action Figure,Bali Beachwalk,14,224000,77167
+27,2025-11-06,Mega Builder,Building Blocks,Bandung Square,8,624000,88159
+28,2025-07-06,Space Blocks,Building Blocks,Bandung Square,13,1313000,357749
+29,2025-11-18,Bubble Machine,Outdoor Toy,Yogyakarta Plaza,11,605000,126762
+30,2024-09-10,Space Blocks,Building Blocks,Jakarta Central,4,64000,11809
+31,2024-08-13,Mega Builder,Building Blocks,Medan Center,1,17000,4708
+32,2024-02-02,Galaxy Warrior,Action Figure,Jakarta Central,14,700000,82400
+33,2025-05-12,Alphabet Blocks,Educational Toy,Bali Beachwalk,4,308000,40988
+34,2025-04-29,Space Blocks,Building Blocks,Bandung Square,13,780000,115129
+35,2025-03-09,Dragon Defender,Action Figure,Surabaya Mall,7,469000,148184
+36,2025-02-16,Super Robot X,Action Figure,Jakarta Central,12,612000,183690
+37,2024-07-13,Galaxy Warrior,Action Figure,Bandung Square,9,585000,79001
+38,2024-09-12,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,14,238000,50166
+39,2025-10-29,Creative Bricks Set,Building Blocks,Jakarta Central,9,1035000,107318
+40,2025-02-20,Galaxy Warrior,Action Figure,Bandung Square,8,552000,84697
+41,2025-01-23,Princess Bella,Doll,Bandung Square,1,57000,9479
+42,2025-12-14,Fashion Star,Doll,Yogyakarta Plaza,12,1296000,309668
+43,2024-07-13,Flying Disc,Outdoor Toy,Bandung Square,5,175000,59881
+44,2024-11-17,Creative Bricks Set,Building Blocks,Bali Beachwalk,1,14000,3444
+45,2025-06-04,Mega Builder,Building Blocks,Jakarta Central,2,232000,33977
+46,2024-08-28,Creative Bricks Set,Building Blocks,Bali Beachwalk,7,161000,53999
+47,2025-08-31,Mega Builder,Building Blocks,Medan Center,1,87000,10483
+48,2024-07-28,Bubble Machine,Outdoor Toy,Surabaya Mall,11,1089000,194436
+49,2025-11-18,Word Challenge,Board Game,Bandung Square,11,506000,108438
+50,2025-09-28,Super Robot X,Action Figure,Yogyakarta Plaza,10,200000,23663
+51,2024-12-23,Alphabet Blocks,Educational Toy,Bandung Square,15,240000,76756
+52,2025-03-24,Mystery Mansion,Board Game,Bandung Square,14,1078000,297404
+53,2025-07-21,Creative Bricks Set,Building Blocks,Bali Beachwalk,5,460000,57912
+54,2024-04-19,Alphabet Blocks,Educational Toy,Jakarta Central,12,936000,129974
+55,2024-12-17,Kingdom Strategy,Board Game,Bali Beachwalk,4,380000,98252
+56,2024-02-22,Word Challenge,Board Game,Surabaya Mall,2,178000,36649
+57,2024-12-07,Treasure Hunt,Board Game,Jakarta Central,13,312000,80894
+58,2025-03-28,Kingdom Strategy,Board Game,Bali Beachwalk,9,882000,182504
+59,2025-12-08,Super Robot X,Action Figure,Jakarta Central,15,405000,95741
+60,2024-05-10,Kingdom Strategy,Board Game,Yogyakarta Plaza,1,47000,8984
+61,2025-11-29,Mini Ninja Hero,Action Figure,Bandung Square,4,372000,46759
+62,2024-06-07,Space Blocks,Building Blocks,Medan Center,15,570000,180206
+63,2024-07-02,Coding Robot,Educational Toy,Jakarta Central,12,600000,177357
+64,2024-06-12,Baby Joy,Doll,Surabaya Mall,13,1261000,160177
+65,2024-07-23,Dragon Defender,Action Figure,Bandung Square,14,924000,173171
+66,2025-11-06,Science Lab Kit,Educational Toy,Jakarta Central,4,236000,42967
+67,2025-10-18,Mini Ninja Hero,Action Figure,Surabaya Mall,9,531000,143306
+68,2024-04-28,City Construction Kit,Building Blocks,Jakarta Central,15,615000,88954
+69,2025-09-02,Treasure Hunt,Board Game,Jakarta Central,7,364000,102697
+70,2025-06-07,Word Challenge,Board Game,Medan Center,2,114000,37035
+71,2025-12-26,Alphabet Blocks,Educational Toy,Jakarta Central,7,56000,12878
+72,2025-03-17,Mega Builder,Building Blocks,Surabaya Mall,2,186000,61415
+73,2024-05-07,City Construction Kit,Building Blocks,Bali Beachwalk,12,552000,125182
+74,2025-02-16,Flying Disc,Outdoor Toy,Surabaya Mall,12,540000,128845
+75,2025-01-23,Coding Robot,Educational Toy,Bali Beachwalk,11,1133000,369019
+76,2025-07-15,City Construction Kit,Building Blocks,Yogyakarta Plaza,14,112000,19708
+77,2025-09-13,Coding Robot,Educational Toy,Medan Center,11,539000,116557
+78,2025-04-29,Baby Joy,Doll,Medan Center,13,1417000,402414
+79,2025-06-11,Water Blaster,Outdoor Toy,Surabaya Mall,11,979000,249464
+80,2024-11-13,Galaxy Warrior,Action Figure,Bali Beachwalk,4,444000,66503
+81,2025-05-01,Super Robot X,Action Figure,Bandung Square,10,1160000,338861
+82,2025-08-12,Dream House Doll,Doll,Bali Beachwalk,4,396000,108539
+83,2024-05-31,Dream House Doll,Doll,Bandung Square,11,1056000,107063
+84,2024-06-29,Dragon Defender,Action Figure,Bandung Square,13,1261000,289386
+85,2025-04-12,Galaxy Warrior,Action Figure,Jakarta Central,3,330000,71333
+86,2025-09-19,City Construction Kit,Building Blocks,Yogyakarta Plaza,14,1400000,452207
+87,2025-05-01,Dream House Doll,Doll,Bandung Square,8,328000,94445
+88,2025-05-11,Bubble Machine,Outdoor Toy,Medan Center,11,418000,70495
+89,2024-10-05,Mini Ninja Hero,Action Figure,Bandung Square,6,288000,93097
+90,2024-08-24,Galaxy Warrior,Action Figure,Bandung Square,7,672000,92871
+91,2025-02-21,Math Puzzle Cube,Educational Toy,Yogyakarta Plaza,6,462000,100014
+92,2025-02-02,Galaxy Warrior,Action Figure,Yogyakarta Plaza,15,1590000,391171
+93,2025-01-24,Water Blaster,Outdoor Toy,Medan Center,8,64000,21483
+94,2025-07-05,Word Challenge,Board Game,Yogyakarta Plaza,12,1224000,289516
+95,2024-08-12,Mega Builder,Building Blocks,Yogyakarta Plaza,5,315000,69744
+96,2025-11-26,Fashion Star,Doll,Bali Beachwalk,13,767000,215561
+97,2025-06-30,Baby Joy,Doll,Medan Center,1,58000,14382
+98,2025-10-20,Water Blaster,Outdoor Toy,Jakarta Central,7,175000,55424
+99,2025-01-23,Math Puzzle Cube,Educational Toy,Surabaya Mall,6,210000,44871
+100,2025-03-07,Word Challenge,Board Game,Surabaya Mall,5,570000,68671
+101,2024-08-17,Super Robot X,Action Figure,Surabaya Mall,11,176000,51974
+102,2024-09-10,Water Blaster,Outdoor Toy,Jakarta Central,4,460000,48343
+103,2025-04-29,Science Lab Kit,Educational Toy,Bandung Square,11,242000,58320
+104,2024-09-19,Coding Robot,Educational Toy,Bali Beachwalk,13,715000,101492
+105,2024-11-14,Creative Bricks Set,Building Blocks,Bandung Square,2,164000,17452
+106,2024-07-22,Word Challenge,Board Game,Yogyakarta Plaza,2,166000,45260
+107,2025-12-14,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,13,598000,186918
+108,2024-02-12,Creative Bricks Set,Building Blocks,Medan Center,6,456000,94435
+109,2025-10-25,Treasure Hunt,Board Game,Medan Center,6,54000,16869
+110,2025-01-05,Princess Bella,Doll,Yogyakarta Plaza,11,1254000,269528
+111,2025-06-18,Coding Robot,Educational Toy,Bandung Square,11,462000,117337
+112,2025-03-22,Space Blocks,Building Blocks,Yogyakarta Plaza,14,1414000,350839
+113,2024-10-12,Kingdom Strategy,Board Game,Jakarta Central,15,975000,156941
+114,2024-01-30,Dream House Doll,Doll,Surabaya Mall,8,928000,168203
+115,2024-09-21,Baby Joy,Doll,Surabaya Mall,6,258000,82580
+116,2024-01-11,Bubble Machine,Outdoor Toy,Medan Center,9,288000,34964
+117,2025-07-22,Flying Disc,Outdoor Toy,Yogyakarta Plaza,13,494000,134690
+118,2024-01-18,Flying Disc,Outdoor Toy,Yogyakarta Plaza,2,90000,13985
+119,2025-11-10,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,10,550000,120073
+120,2025-07-17,City Construction Kit,Building Blocks,Yogyakarta Plaza,6,318000,87676
+121,2024-08-24,Mystery Mansion,Board Game,Surabaya Mall,2,200000,29629
+122,2024-08-09,Galaxy Warrior,Action Figure,Bandung Square,12,828000,140035
+123,2024-07-17,City Construction Kit,Building Blocks,Jakarta Central,5,185000,35190
+124,2025-06-30,Treasure Hunt,Board Game,Bali Beachwalk,3,129000,14367
+125,2024-05-09,Mini Ninja Hero,Action Figure,Bali Beachwalk,11,1309000,377251
+126,2024-10-18,Super Robot X,Action Figure,Medan Center,8,552000,115984
+127,2025-05-04,Math Puzzle Cube,Educational Toy,Surabaya Mall,2,226000,26291
+128,2025-10-06,Princess Bella,Doll,Medan Center,11,154000,21241
+129,2024-09-11,City Construction Kit,Building Blocks,Jakarta Central,2,158000,45995
+130,2025-01-24,Mega Builder,Building Blocks,Medan Center,8,512000,89261
+131,2025-08-05,Space Blocks,Building Blocks,Surabaya Mall,10,150000,37861
+132,2025-10-02,Water Blaster,Outdoor Toy,Bandung Square,4,164000,43477
+133,2025-07-19,Science Lab Kit,Educational Toy,Bandung Square,2,56000,5637
+134,2024-02-03,Dream House Doll,Doll,Surabaya Mall,4,176000,48706
+135,2025-12-04,Flying Disc,Outdoor Toy,Jakarta Central,4,164000,48700
+136,2024-04-27,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,9,324000,84858
+137,2024-03-02,Kingdom Strategy,Board Game,Jakarta Central,3,327000,57847
+138,2024-05-07,Bubble Machine,Outdoor Toy,Yogyakarta Plaza,8,768000,135185
+139,2025-07-06,Fashion Star,Doll,Medan Center,8,512000,61496
+140,2024-11-26,Dragon Defender,Action Figure,Bali Beachwalk,10,400000,42586
+141,2024-10-02,Math Puzzle Cube,Educational Toy,Bali Beachwalk,10,130000,37801
+142,2025-10-29,Coding Robot,Educational Toy,Medan Center,8,344000,50008
+143,2025-05-18,Space Blocks,Building Blocks,Bali Beachwalk,2,136000,25430
+144,2024-04-17,Mystery Mansion,Board Game,Bali Beachwalk,14,392000,71520
+145,2025-11-09,Flying Disc,Outdoor Toy,Surabaya Mall,7,784000,227457
+146,2024-11-18,Dragon Defender,Action Figure,Jakarta Central,5,245000,31600
+147,2025-07-09,Princess Bella,Doll,Bali Beachwalk,8,480000,54504
+148,2025-05-25,City Construction Kit,Building Blocks,Medan Center,11,704000,204158
+149,2024-05-14,Alphabet Blocks,Educational Toy,Medan Center,15,660000,138289
+150,2024-01-30,Flying Disc,Outdoor Toy,Jakarta Central,11,935000,280339
+151,2025-07-18,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,1,78000,15755
+152,2024-04-30,Math Puzzle Cube,Educational Toy,Yogyakarta Plaza,11,1254000,173669
+153,2025-12-23,Bubble Machine,Outdoor Toy,Medan Center,5,305000,94147
+154,2025-07-18,Baby Joy,Doll,Yogyakarta Plaza,3,171000,25248
+155,2024-10-09,Mega Builder,Building Blocks,Jakarta Central,13,1417000,444375
+156,2024-10-16,Mystery Mansion,Board Game,Jakarta Central,12,552000,170771
+157,2025-04-02,Space Blocks,Building Blocks,Bandung Square,9,621000,115680
+158,2024-11-25,Space Blocks,Building Blocks,Yogyakarta Plaza,14,448000,154646
+159,2025-02-24,Coding Robot,Educational Toy,Bandung Square,1,48000,13736
+160,2025-11-10,Flying Disc,Outdoor Toy,Yogyakarta Plaza,13,1469000,386353
+161,2024-05-09,Coding Robot,Educational Toy,Jakarta Central,9,747000,136700
+162,2025-06-22,Dragon Defender,Action Figure,Jakarta Central,15,990000,102798
+163,2024-06-07,Coding Robot,Educational Toy,Bali Beachwalk,2,136000,40171
+164,2025-12-10,Mystery Mansion,Board Game,Medan Center,7,637000,76490
+165,2025-10-03,Word Challenge,Board Game,Surabaya Mall,12,1260000,279703
+166,2024-03-11,Creative Bricks Set,Building Blocks,Medan Center,4,352000,95427
+167,2024-04-02,Kingdom Strategy,Board Game,Bali Beachwalk,7,140000,40612
+168,2024-06-19,Water Blaster,Outdoor Toy,Yogyakarta Plaza,12,552000,179872
+169,2024-10-27,Mini Ninja Hero,Action Figure,Jakarta Central,6,330000,68531
+170,2025-11-29,Coding Robot,Educational Toy,Medan Center,13,403000,57425
+171,2025-11-30,Dragon Defender,Action Figure,Medan Center,4,284000,93210
+172,2025-10-15,Science Lab Kit,Educational Toy,Yogyakarta Plaza,5,330000,54064
+173,2025-11-24,Dragon Defender,Action Figure,Surabaya Mall,9,252000,29853
+174,2025-03-10,Mystery Mansion,Board Game,Bali Beachwalk,12,480000,102820
+175,2025-05-09,Kingdom Strategy,Board Game,Yogyakarta Plaza,2,76000,14845
+176,2024-10-29,Mystery Mansion,Board Game,Bali Beachwalk,1,114000,30159
+177,2025-12-03,Treasure Hunt,Board Game,Medan Center,13,1339000,459813
+178,2024-08-23,Space Blocks,Building Blocks,Surabaya Mall,10,1100000,206888
+179,2024-09-13,Kids Basketball Hoop,Outdoor Toy,Medan Center,11,1144000,320585
+180,2024-04-09,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,15,1320000,345292
+181,2025-08-16,Word Challenge,Board Game,Jakarta Central,6,606000,80508
+182,2025-03-01,Mystery Mansion,Board Game,Bali Beachwalk,3,99000,13170
+183,2025-05-28,City Construction Kit,Building Blocks,Medan Center,15,630000,193799
+184,2024-12-12,Word Challenge,Board Game,Surabaya Mall,13,286000,62085
+185,2025-11-23,Galaxy Warrior,Action Figure,Bandung Square,12,1128000,389143
+186,2025-02-08,City Construction Kit,Building Blocks,Jakarta Central,1,41000,9599
+187,2025-11-19,Fashion Star,Doll,Bali Beachwalk,5,410000,80055
+188,2025-11-22,Bubble Machine,Outdoor Toy,Jakarta Central,4,272000,28901
+189,2024-08-14,City Construction Kit,Building Blocks,Medan Center,11,176000,45557
+190,2025-02-22,Fashion Star,Doll,Bali Beachwalk,2,50000,5566
+191,2024-04-28,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,2,76000,24457
+192,2025-01-14,Coding Robot,Educational Toy,Yogyakarta Plaza,11,1133000,310579
+193,2024-06-07,Space Blocks,Building Blocks,Medan Center,15,915000,241313
+194,2024-02-03,Dream House Doll,Doll,Surabaya Mall,12,660000,101849
+195,2024-04-11,Baby Joy,Doll,Surabaya Mall,11,605000,142850
+196,2025-02-11,Bubble Machine,Outdoor Toy,Jakarta Central,5,160000,54728
+197,2024-08-05,Princess Bella,Doll,Bali Beachwalk,11,979000,244051
+198,2024-09-06,Super Robot X,Action Figure,Surabaya Mall,3,324000,78130
+199,2024-08-09,Galaxy Warrior,Action Figure,Medan Center,14,1666000,263643
+200,2024-05-28,Math Puzzle Cube,Educational Toy,Surabaya Mall,3,231000,37575
+201,2024-01-27,Math Puzzle Cube,Educational Toy,Bali Beachwalk,3,27000,5118
+202,2024-06-27,Alphabet Blocks,Educational Toy,Jakarta Central,5,70000,9218
+203,2024-03-06,Princess Bella,Doll,Bali Beachwalk,8,520000,153142
+204,2025-05-30,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,4,344000,38129
+205,2025-10-20,Bubble Machine,Outdoor Toy,Yogyakarta Plaza,1,15000,5244
+206,2024-04-20,Dream House Doll,Doll,Bali Beachwalk,8,792000,259320
+207,2025-09-14,Super Robot X,Action Figure,Surabaya Mall,3,48000,6314
+208,2025-09-03,City Construction Kit,Building Blocks,Yogyakarta Plaza,9,405000,86438
+209,2025-12-19,Space Blocks,Building Blocks,Jakarta Central,2,234000,61700
+210,2025-04-07,Mega Builder,Building Blocks,Yogyakarta Plaza,15,555000,112916
+211,2024-04-07,Dream House Doll,Doll,Yogyakarta Plaza,6,372000,66264
+212,2025-12-04,Mystery Mansion,Board Game,Bandung Square,15,1020000,119118
+213,2024-04-08,Super Robot X,Action Figure,Yogyakarta Plaza,12,1224000,236429
+214,2025-07-29,Math Puzzle Cube,Educational Toy,Medan Center,9,450000,120376
+215,2025-03-09,Fashion Star,Doll,Bali Beachwalk,14,1400000,158006
+216,2024-04-16,Mystery Mansion,Board Game,Surabaya Mall,10,720000,110292
+217,2024-04-20,Flying Disc,Outdoor Toy,Bandung Square,6,696000,166390
+218,2024-08-19,Mini Ninja Hero,Action Figure,Medan Center,13,806000,250898
+219,2025-11-04,Creative Bricks Set,Building Blocks,Medan Center,14,1344000,224262
+220,2024-11-12,Alphabet Blocks,Educational Toy,Bali Beachwalk,15,765000,143633
+221,2025-11-04,Science Lab Kit,Educational Toy,Medan Center,7,112000,15172
+222,2025-06-27,Water Blaster,Outdoor Toy,Jakarta Central,4,224000,45910
+223,2024-11-15,Kingdom Strategy,Board Game,Surabaya Mall,12,588000,172994
+224,2024-06-08,Creative Bricks Set,Building Blocks,Jakarta Central,3,312000,79391
+225,2025-03-29,Water Blaster,Outdoor Toy,Surabaya Mall,11,682000,151005
+226,2024-08-08,Dream House Doll,Doll,Surabaya Mall,13,949000,121903
+227,2025-11-25,Princess Bella,Doll,Surabaya Mall,11,913000,202373
+228,2024-08-13,Bubble Machine,Outdoor Toy,Jakarta Central,7,588000,66852
+229,2024-05-20,Alphabet Blocks,Educational Toy,Bandung Square,13,520000,89628
+230,2025-03-16,Super Robot X,Action Figure,Yogyakarta Plaza,3,72000,14043
+231,2025-07-26,Kids Basketball Hoop,Outdoor Toy,Medan Center,14,1302000,392618
+232,2024-02-13,Dragon Defender,Action Figure,Bali Beachwalk,7,70000,15045
+233,2025-03-15,Mini Ninja Hero,Action Figure,Medan Center,10,590000,163651
+234,2025-02-18,Fashion Star,Doll,Jakarta Central,1,49000,7005
+235,2025-01-05,Space Blocks,Building Blocks,Bali Beachwalk,2,126000,39201
+236,2025-02-14,Coding Robot,Educational Toy,Medan Center,9,162000,32228
+237,2024-12-07,Mystery Mansion,Board Game,Bandung Square,13,377000,44898
+238,2025-06-06,Water Blaster,Outdoor Toy,Medan Center,4,428000,80183
+239,2024-04-15,Kids Basketball Hoop,Outdoor Toy,Bandung Square,3,120000,17918
+240,2024-03-18,Mega Builder,Building Blocks,Bali Beachwalk,3,318000,81721
+241,2025-08-01,Dream House Doll,Doll,Bali Beachwalk,11,979000,339353
+242,2025-03-26,Mystery Mansion,Board Game,Bandung Square,2,136000,28635
+243,2024-02-27,Mystery Mansion,Board Game,Medan Center,6,432000,51212
+244,2024-02-28,Dream House Doll,Doll,Jakarta Central,6,684000,117490
+245,2025-08-31,Water Blaster,Outdoor Toy,Medan Center,9,513000,110642
+246,2025-08-08,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,11,352000,63494
+247,2025-04-06,Baby Joy,Doll,Jakarta Central,2,222000,72101
+248,2025-10-23,Treasure Hunt,Board Game,Medan Center,3,39000,6315
+249,2025-06-19,Dream House Doll,Doll,Medan Center,10,280000,53472
+250,2024-12-12,Word Challenge,Board Game,Yogyakarta Plaza,11,924000,104496
+251,2024-12-03,Bubble Machine,Outdoor Toy,Jakarta Central,2,158000,42595
+252,2025-11-03,Mystery Mansion,Board Game,Bali Beachwalk,15,1275000,405857
+253,2025-11-10,Treasure Hunt,Board Game,Medan Center,3,156000,27699
+254,2025-09-01,Flying Disc,Outdoor Toy,Bandung Square,12,216000,38317
+255,2025-11-17,Fashion Star,Doll,Bandung Square,12,1368000,460711
+256,2025-11-17,Water Blaster,Outdoor Toy,Bali Beachwalk,7,511000,97323
+257,2024-08-07,Mystery Mansion,Board Game,Bandung Square,6,636000,140917
+258,2024-03-20,Science Lab Kit,Educational Toy,Bandung Square,5,580000,172277
+259,2024-12-10,Creative Bricks Set,Building Blocks,Bali Beachwalk,15,1590000,404667
+260,2024-06-15,Space Blocks,Building Blocks,Bandung Square,3,342000,93438
+261,2025-03-24,Mega Builder,Building Blocks,Bali Beachwalk,1,60000,11464
+262,2025-09-17,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,5,520000,149309
+263,2024-09-01,Baby Joy,Doll,Medan Center,5,555000,164331
+264,2025-08-07,Alphabet Blocks,Educational Toy,Bali Beachwalk,8,536000,156704
+265,2024-07-23,Dream House Doll,Doll,Bandung Square,13,1105000,148732
+266,2025-05-07,Treasure Hunt,Board Game,Bali Beachwalk,14,770000,183749
+267,2024-03-26,Super Robot X,Action Figure,Surabaya Mall,13,364000,61224
+268,2024-04-03,Mega Builder,Building Blocks,Yogyakarta Plaza,15,540000,164254
+269,2024-02-24,Treasure Hunt,Board Game,Yogyakarta Plaza,7,504000,97519
+270,2024-08-17,Princess Bella,Doll,Surabaya Mall,1,48000,15969
+271,2024-05-20,Bubble Machine,Outdoor Toy,Bandung Square,1,44000,14491
+272,2025-04-25,Baby Joy,Doll,Bali Beachwalk,8,688000,69703
+273,2024-08-08,Super Robot X,Action Figure,Surabaya Mall,14,378000,89662
+274,2024-10-22,Flying Disc,Outdoor Toy,Jakarta Central,4,184000,24005
+275,2025-09-29,Coding Robot,Educational Toy,Bali Beachwalk,8,128000,16347
+276,2025-06-11,Princess Bella,Doll,Bali Beachwalk,10,380000,106261
+277,2025-09-21,Word Challenge,Board Game,Jakarta Central,6,228000,55327
+278,2025-01-04,Math Puzzle Cube,Educational Toy,Medan Center,2,150000,35403
+279,2025-04-26,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,1,89000,17508
+280,2024-01-17,Mystery Mansion,Board Game,Bali Beachwalk,6,648000,75744
+281,2024-12-06,Math Puzzle Cube,Educational Toy,Medan Center,3,39000,7334
+282,2025-04-20,Kingdom Strategy,Board Game,Bali Beachwalk,12,828000,213569
+283,2025-04-13,Math Puzzle Cube,Educational Toy,Bali Beachwalk,1,45000,6767
+284,2024-11-13,Math Puzzle Cube,Educational Toy,Surabaya Mall,9,522000,181280
+285,2024-02-07,Space Blocks,Building Blocks,Surabaya Mall,13,1170000,172897
+286,2024-12-05,Treasure Hunt,Board Game,Bali Beachwalk,5,115000,34481
+287,2025-03-26,Dream House Doll,Doll,Bali Beachwalk,15,855000,157969
+288,2025-05-24,Coding Robot,Educational Toy,Bali Beachwalk,6,660000,151680
+289,2025-03-16,Dragon Defender,Action Figure,Jakarta Central,10,1130000,163978
+290,2024-03-22,Mystery Mansion,Board Game,Jakarta Central,6,552000,95998
+291,2025-12-07,Dream House Doll,Doll,Bandung Square,8,416000,88101
+292,2025-03-21,Bubble Machine,Outdoor Toy,Medan Center,5,445000,153528
+293,2025-10-14,Super Robot X,Action Figure,Bali Beachwalk,7,378000,86286
+294,2024-05-26,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,14,1190000,320731
+295,2024-03-09,Princess Bella,Doll,Bandung Square,4,428000,111832
+296,2024-02-03,Word Challenge,Board Game,Medan Center,10,270000,72836
+297,2024-03-19,Mystery Mansion,Board Game,Yogyakarta Plaza,10,250000,58091
+298,2024-10-12,Fashion Star,Doll,Bali Beachwalk,4,88000,9370
+299,2025-01-31,Coding Robot,Educational Toy,Medan Center,15,1185000,153386
+300,2025-09-18,Word Challenge,Board Game,Bandung Square,5,480000,157977
+301,2024-05-18,Baby Joy,Doll,Jakarta Central,14,238000,50696
+302,2025-11-29,Flying Disc,Outdoor Toy,Jakarta Central,14,672000,179397
+303,2025-07-09,Water Blaster,Outdoor Toy,Medan Center,5,230000,71953
+304,2025-06-04,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,4,92000,31858
+305,2024-01-27,Science Lab Kit,Educational Toy,Yogyakarta Plaza,6,468000,113756
+306,2024-03-29,Baby Joy,Doll,Medan Center,2,94000,18756
+307,2025-02-24,Flying Disc,Outdoor Toy,Medan Center,13,780000,238551
+308,2025-10-19,Galaxy Warrior,Action Figure,Surabaya Mall,2,130000,28139
+309,2025-07-18,City Construction Kit,Building Blocks,Bandung Square,11,913000,132833
+310,2024-02-26,Coding Robot,Educational Toy,Medan Center,14,322000,73907
+311,2024-11-26,Kingdom Strategy,Board Game,Bandung Square,15,1470000,229860
+312,2024-09-13,City Construction Kit,Building Blocks,Jakarta Central,4,356000,120715
+313,2024-11-06,Kingdom Strategy,Board Game,Bali Beachwalk,10,760000,93751
+314,2025-08-17,Kids Basketball Hoop,Outdoor Toy,Medan Center,3,87000,23027
+315,2024-02-12,Bubble Machine,Outdoor Toy,Medan Center,14,1652000,176918
+316,2024-08-03,Mini Ninja Hero,Action Figure,Bali Beachwalk,13,1053000,214966
+317,2025-10-04,Water Blaster,Outdoor Toy,Yogyakarta Plaza,9,405000,105493
+318,2025-12-02,Word Challenge,Board Game,Bandung Square,7,322000,68710
+319,2025-03-26,Water Blaster,Outdoor Toy,Bandung Square,7,483000,104381
+320,2024-11-22,Kingdom Strategy,Board Game,Surabaya Mall,12,1416000,263861
+321,2025-06-11,Baby Joy,Doll,Surabaya Mall,9,189000,33978
+322,2025-04-05,Princess Bella,Doll,Surabaya Mall,4,104000,12917
+323,2025-03-04,Word Challenge,Board Game,Medan Center,4,472000,153672
+324,2024-06-12,Mystery Mansion,Board Game,Bandung Square,8,584000,126555
+325,2024-04-02,Word Challenge,Board Game,Jakarta Central,7,504000,108011
+326,2024-12-27,Science Lab Kit,Educational Toy,Medan Center,1,14000,2384
+327,2025-07-03,Space Blocks,Building Blocks,Surabaya Mall,1,116000,14717
+328,2025-01-09,Alphabet Blocks,Educational Toy,Bali Beachwalk,13,767000,146868
+329,2025-07-29,Princess Bella,Doll,Medan Center,4,216000,51474
+330,2025-04-06,Dragon Defender,Action Figure,Medan Center,13,1014000,172309
+331,2024-04-09,Creative Bricks Set,Building Blocks,Bandung Square,7,385000,115008
+332,2024-07-22,Mystery Mansion,Board Game,Bandung Square,10,730000,146253
+333,2024-05-20,Super Robot X,Action Figure,Jakarta Central,12,600000,180594
+334,2025-09-12,Space Blocks,Building Blocks,Bandung Square,15,1095000,147765
+335,2025-02-06,City Construction Kit,Building Blocks,Bandung Square,10,1020000,316863
+336,2025-06-05,City Construction Kit,Building Blocks,Medan Center,9,630000,174626
+337,2025-01-12,Word Challenge,Board Game,Jakarta Central,6,564000,71854
+338,2025-12-05,Fashion Star,Doll,Bali Beachwalk,11,121000,30156
+339,2024-02-22,Kingdom Strategy,Board Game,Bali Beachwalk,10,690000,98413
+340,2025-11-28,Flying Disc,Outdoor Toy,Bandung Square,4,48000,11670
+341,2024-01-20,Water Blaster,Outdoor Toy,Bandung Square,8,384000,78602
+342,2025-05-28,Baby Joy,Doll,Yogyakarta Plaza,13,1118000,369085
+343,2024-05-21,Water Blaster,Outdoor Toy,Bali Beachwalk,9,306000,73507
+344,2025-01-20,Flying Disc,Outdoor Toy,Medan Center,6,180000,38684
+345,2024-12-28,City Construction Kit,Building Blocks,Medan Center,11,1166000,369521
+346,2025-05-10,Bubble Machine,Outdoor Toy,Medan Center,4,156000,26481
+347,2024-10-22,Kingdom Strategy,Board Game,Surabaya Mall,12,408000,111204
+348,2024-12-23,Fashion Star,Doll,Yogyakarta Plaza,9,981000,275088
+349,2025-11-23,Treasure Hunt,Board Game,Medan Center,9,504000,163265
+350,2024-10-24,Fashion Star,Doll,Bandung Square,1,44000,14908
+351,2025-11-02,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,5,515000,113181
+352,2025-12-13,Alphabet Blocks,Educational Toy,Medan Center,5,125000,15913
+353,2024-02-21,Kids Basketball Hoop,Outdoor Toy,Bandung Square,11,825000,129044
+354,2025-02-27,Math Puzzle Cube,Educational Toy,Jakarta Central,6,594000,129551
+355,2025-07-17,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,15,420000,84725
+356,2024-07-23,Dream House Doll,Doll,Bali Beachwalk,13,572000,103126
+357,2025-10-29,Water Blaster,Outdoor Toy,Jakarta Central,10,370000,86501
+358,2025-03-03,Water Blaster,Outdoor Toy,Bandung Square,15,1725000,248308
+359,2024-07-09,Dragon Defender,Action Figure,Yogyakarta Plaza,15,1545000,526123
+360,2024-11-01,Treasure Hunt,Board Game,Jakarta Central,10,850000,107801
+361,2025-10-18,Mystery Mansion,Board Game,Yogyakarta Plaza,9,675000,150847
+362,2024-07-16,Coding Robot,Educational Toy,Surabaya Mall,13,286000,52243
+363,2024-09-20,Flying Disc,Outdoor Toy,Bali Beachwalk,12,372000,38509
+364,2025-11-21,Mystery Mansion,Board Game,Medan Center,13,416000,59851
+365,2025-06-11,Flying Disc,Outdoor Toy,Yogyakarta Plaza,6,114000,22823
+366,2025-05-03,Galaxy Warrior,Action Figure,Bandung Square,6,234000,23799
+367,2024-09-30,Baby Joy,Doll,Yogyakarta Plaza,6,276000,67789
+368,2025-10-31,Creative Bricks Set,Building Blocks,Surabaya Mall,6,576000,91627
+369,2024-11-10,Water Blaster,Outdoor Toy,Yogyakarta Plaza,3,177000,48058
+370,2024-04-30,Bubble Machine,Outdoor Toy,Bali Beachwalk,11,495000,94983
+371,2025-05-04,Science Lab Kit,Educational Toy,Bandung Square,3,198000,56812
+372,2025-12-19,City Construction Kit,Building Blocks,Yogyakarta Plaza,9,612000,177074
+373,2025-11-27,Kids Basketball Hoop,Outdoor Toy,Bandung Square,13,1092000,347565
+374,2025-12-21,Dragon Defender,Action Figure,Medan Center,6,102000,33589
+375,2025-06-01,Super Robot X,Action Figure,Medan Center,4,324000,75869
+376,2025-03-28,Alphabet Blocks,Educational Toy,Medan Center,2,190000,28756
+377,2025-06-06,Space Blocks,Building Blocks,Jakarta Central,8,888000,101151
+378,2025-07-31,Coding Robot,Educational Toy,Yogyakarta Plaza,1,79000,17031
+379,2024-09-17,Treasure Hunt,Board Game,Yogyakarta Plaza,14,112000,32082
+380,2025-03-09,Creative Bricks Set,Building Blocks,Jakarta Central,6,582000,67477
+381,2024-02-02,Super Robot X,Action Figure,Yogyakarta Plaza,5,300000,43498
+382,2025-01-26,Coding Robot,Educational Toy,Surabaya Mall,8,952000,313473
+383,2025-11-30,Dream House Doll,Doll,Jakarta Central,11,1309000,307386
+384,2024-07-01,Bubble Machine,Outdoor Toy,Jakarta Central,9,522000,121213
+385,2024-01-24,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,5,335000,89905
+386,2025-01-23,Space Blocks,Building Blocks,Medan Center,14,518000,83852
+387,2024-07-12,Kingdom Strategy,Board Game,Surabaya Mall,15,1800000,506260
+388,2025-03-05,Super Robot X,Action Figure,Bali Beachwalk,10,1060000,354103
+389,2024-03-09,Galaxy Warrior,Action Figure,Bandung Square,2,168000,18210
+390,2024-02-15,Creative Bricks Set,Building Blocks,Bandung Square,7,448000,71046
+391,2025-05-30,Math Puzzle Cube,Educational Toy,Bandung Square,5,185000,56230
+392,2025-09-04,Bubble Machine,Outdoor Toy,Medan Center,13,1222000,372215
+393,2025-11-07,Alphabet Blocks,Educational Toy,Bandung Square,9,324000,65898
+394,2025-08-28,Treasure Hunt,Board Game,Medan Center,15,1530000,501678
+395,2025-05-22,Flying Disc,Outdoor Toy,Medan Center,1,52000,17440
+396,2024-11-22,Flying Disc,Outdoor Toy,Medan Center,12,732000,147911
+397,2025-07-04,Word Challenge,Board Game,Bandung Square,8,304000,94949
+398,2024-02-29,Kingdom Strategy,Board Game,Yogyakarta Plaza,9,540000,184651
+399,2024-09-05,Mega Builder,Building Blocks,Yogyakarta Plaza,5,170000,31036
+400,2024-04-04,Dragon Defender,Action Figure,Surabaya Mall,9,900000,276616
+401,2025-11-20,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,10,850000,93403
+402,2025-11-18,Galaxy Warrior,Action Figure,Medan Center,9,315000,69252
+403,2024-08-04,Mystery Mansion,Board Game,Jakarta Central,15,480000,163449
+404,2025-12-13,Dragon Defender,Action Figure,Bandung Square,10,980000,148105
+405,2025-01-24,Alphabet Blocks,Educational Toy,Surabaya Mall,8,608000,159405
+406,2025-06-09,Mystery Mansion,Board Game,Surabaya Mall,15,1065000,230573
+407,2024-07-27,Flying Disc,Outdoor Toy,Surabaya Mall,6,288000,58602
+408,2024-05-29,Mega Builder,Building Blocks,Bali Beachwalk,1,41000,9771
+409,2024-06-05,Space Blocks,Building Blocks,Surabaya Mall,4,200000,31500
+410,2025-07-17,Mega Builder,Building Blocks,Yogyakarta Plaza,11,1045000,192688
+411,2024-06-21,Dream House Doll,Doll,Yogyakarta Plaza,12,1308000,245961
+412,2025-07-09,Coding Robot,Educational Toy,Bandung Square,11,165000,38112
+413,2025-02-26,Super Robot X,Action Figure,Jakarta Central,3,345000,88898
+414,2024-08-11,Galaxy Warrior,Action Figure,Jakarta Central,9,594000,114820
+415,2025-05-14,Space Blocks,Building Blocks,Bali Beachwalk,1,8000,1864
+416,2025-06-26,Princess Bella,Doll,Jakarta Central,12,516000,120710
+417,2025-12-15,Treasure Hunt,Board Game,Medan Center,11,693000,208968
+418,2025-06-20,Math Puzzle Cube,Educational Toy,Jakarta Central,3,114000,16870
+419,2024-09-30,City Construction Kit,Building Blocks,Surabaya Mall,13,754000,90295
+420,2024-09-06,Dream House Doll,Doll,Medan Center,12,432000,75597
+421,2025-02-19,Super Robot X,Action Figure,Jakarta Central,7,392000,93364
+422,2024-06-24,Super Robot X,Action Figure,Bali Beachwalk,2,142000,44209
+423,2024-04-07,Bubble Machine,Outdoor Toy,Medan Center,15,1125000,371011
+424,2025-08-03,Science Lab Kit,Educational Toy,Bali Beachwalk,8,336000,37511
+425,2025-07-31,Mini Ninja Hero,Action Figure,Medan Center,11,132000,19118
+426,2025-08-24,Treasure Hunt,Board Game,Bandung Square,3,312000,95213
+427,2024-06-15,Princess Bella,Doll,Surabaya Mall,10,380000,91836
+428,2024-05-23,Fashion Star,Doll,Yogyakarta Plaza,13,1248000,350739
+429,2024-04-10,City Construction Kit,Building Blocks,Jakarta Central,7,259000,80204
+430,2024-01-31,Word Challenge,Board Game,Surabaya Mall,11,462000,136699
+431,2024-12-30,Dream House Doll,Doll,Bandung Square,9,504000,104812
+432,2025-09-25,Flying Disc,Outdoor Toy,Jakarta Central,5,550000,88886
+433,2024-06-06,Super Robot X,Action Figure,Surabaya Mall,7,693000,205108
+434,2025-01-04,Coding Robot,Educational Toy,Surabaya Mall,2,38000,3849
+435,2024-10-03,Word Challenge,Board Game,Surabaya Mall,2,48000,5847
+436,2025-07-22,Dream House Doll,Doll,Medan Center,9,540000,67944
+437,2024-04-05,Mini Ninja Hero,Action Figure,Medan Center,10,840000,248732
+438,2025-02-27,Princess Bella,Doll,Surabaya Mall,7,749000,90759
+439,2025-06-17,Mega Builder,Building Blocks,Medan Center,3,285000,55627
+440,2024-10-01,Alphabet Blocks,Educational Toy,Surabaya Mall,8,208000,24089
+441,2024-11-02,Fashion Star,Doll,Yogyakarta Plaza,8,864000,103015
+442,2025-10-02,Kingdom Strategy,Board Game,Bali Beachwalk,8,672000,170800
+443,2024-11-07,Princess Bella,Doll,Bandung Square,1,58000,10617
+444,2025-03-26,Space Blocks,Building Blocks,Surabaya Mall,6,378000,114862
+445,2024-11-24,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,10,960000,144204
+446,2024-11-22,Kingdom Strategy,Board Game,Yogyakarta Plaza,5,510000,139607
+447,2025-01-20,Baby Joy,Doll,Surabaya Mall,5,560000,166021
+448,2024-07-23,Treasure Hunt,Board Game,Medan Center,10,770000,111635
+449,2025-04-17,Creative Bricks Set,Building Blocks,Bali Beachwalk,12,408000,85522
+450,2025-11-20,Treasure Hunt,Board Game,Yogyakarta Plaza,8,200000,51666
+451,2024-06-06,Alphabet Blocks,Educational Toy,Bali Beachwalk,12,744000,221168
+452,2025-05-05,Dragon Defender,Action Figure,Medan Center,10,590000,137819
+453,2024-02-07,Flying Disc,Outdoor Toy,Medan Center,13,702000,193336
+454,2024-09-11,Creative Bricks Set,Building Blocks,Jakarta Central,11,1023000,193093
+455,2025-10-22,Water Blaster,Outdoor Toy,Medan Center,11,990000,197905
+456,2024-01-11,Word Challenge,Board Game,Jakarta Central,2,82000,12751
+457,2025-01-18,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,7,469000,137457
+458,2024-01-26,Mega Builder,Building Blocks,Surabaya Mall,8,168000,29208
+459,2024-05-25,Super Robot X,Action Figure,Bali Beachwalk,6,282000,52386
+460,2025-05-02,Coding Robot,Educational Toy,Surabaya Mall,2,128000,35903
+461,2024-11-03,Fashion Star,Doll,Jakarta Central,1,111000,30824
+462,2024-04-21,Mini Ninja Hero,Action Figure,Bali Beachwalk,11,1210000,170717
+463,2024-06-27,Kids Basketball Hoop,Outdoor Toy,Medan Center,9,252000,46052
+464,2025-02-18,Dream House Doll,Doll,Bandung Square,11,341000,49989
+465,2024-01-30,Flying Disc,Outdoor Toy,Yogyakarta Plaza,12,1032000,331039
+466,2024-01-05,Dream House Doll,Doll,Yogyakarta Plaza,12,420000,63607
+467,2024-04-14,Water Blaster,Outdoor Toy,Medan Center,13,1547000,362341
+468,2025-04-13,Mystery Mansion,Board Game,Bandung Square,2,82000,21949
+469,2025-02-01,Fashion Star,Doll,Medan Center,10,580000,143115
+470,2025-09-24,Mystery Mansion,Board Game,Yogyakarta Plaza,3,336000,90181
+471,2024-05-17,Treasure Hunt,Board Game,Bali Beachwalk,6,138000,22030
+472,2025-12-11,Galaxy Warrior,Action Figure,Surabaya Mall,3,219000,43168
+473,2025-01-27,Mega Builder,Building Blocks,Medan Center,7,217000,48101
+474,2024-06-19,Mega Builder,Building Blocks,Medan Center,8,352000,47546
+475,2024-02-24,Word Challenge,Board Game,Medan Center,14,742000,250766
+476,2025-01-28,Baby Joy,Doll,Bandung Square,9,648000,170597
+477,2025-12-28,Dream House Doll,Doll,Yogyakarta Plaza,14,896000,199068
+478,2024-10-26,Super Robot X,Action Figure,Bandung Square,1,43000,6717
+479,2025-08-02,Kingdom Strategy,Board Game,Yogyakarta Plaza,12,1272000,370762
+480,2024-04-26,Creative Bricks Set,Building Blocks,Medan Center,5,535000,126140
+481,2025-03-27,Treasure Hunt,Board Game,Bali Beachwalk,9,315000,109444
+482,2024-02-03,Galaxy Warrior,Action Figure,Surabaya Mall,8,328000,61383
+483,2024-08-30,Dragon Defender,Action Figure,Jakarta Central,4,444000,126275
+484,2025-09-16,Bubble Machine,Outdoor Toy,Bali Beachwalk,11,682000,96499
+485,2024-03-01,Science Lab Kit,Educational Toy,Bandung Square,10,520000,121196
+486,2025-12-21,Mega Builder,Building Blocks,Surabaya Mall,5,225000,54716
+487,2025-02-25,Creative Bricks Set,Building Blocks,Bandung Square,15,225000,78327
+488,2024-05-15,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,4,104000,28896
+489,2024-05-25,Coding Robot,Educational Toy,Yogyakarta Plaza,10,880000,147117
+490,2024-03-18,Dream House Doll,Doll,Yogyakarta Plaza,11,1199000,383717
+491,2024-10-11,Dragon Defender,Action Figure,Medan Center,12,1440000,276865
+492,2024-01-03,Fashion Star,Doll,Medan Center,14,1498000,467064
+493,2025-11-11,Dragon Defender,Action Figure,Bali Beachwalk,12,636000,198766
+494,2025-03-15,Space Blocks,Building Blocks,Bandung Square,14,490000,109602
+495,2025-07-14,Mystery Mansion,Board Game,Surabaya Mall,10,240000,57968
+496,2024-02-19,Fashion Star,Doll,Bali Beachwalk,1,20000,5130
+497,2024-06-10,Princess Bella,Doll,Jakarta Central,8,528000,52889
+498,2024-05-15,Baby Joy,Doll,Bali Beachwalk,15,1365000,239511
+499,2025-01-04,Treasure Hunt,Board Game,Bali Beachwalk,5,90000,17366
+500,2025-02-09,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,11,517000,145534
+501,2024-04-03,Coding Robot,Educational Toy,Bali Beachwalk,12,240000,24065
+502,2025-08-30,Princess Bella,Doll,Bandung Square,4,296000,79918
+503,2024-12-17,Super Robot X,Action Figure,Bali Beachwalk,14,322000,111746
+504,2024-03-13,Baby Joy,Doll,Yogyakarta Plaza,4,228000,27891
+505,2025-01-11,Super Robot X,Action Figure,Surabaya Mall,15,690000,92654
+506,2025-06-27,Science Lab Kit,Educational Toy,Jakarta Central,10,90000,22732
+507,2024-08-06,Coding Robot,Educational Toy,Surabaya Mall,11,1133000,156176
+508,2024-03-29,Dream House Doll,Doll,Bandung Square,15,300000,40500
+509,2025-03-15,Dragon Defender,Action Figure,Surabaya Mall,6,654000,88262
+510,2025-07-20,Treasure Hunt,Board Game,Bandung Square,10,840000,235447
+511,2024-11-04,Treasure Hunt,Board Game,Bali Beachwalk,4,296000,74512
+512,2025-10-23,Coding Robot,Educational Toy,Surabaya Mall,1,108000,35043
+513,2024-04-25,Coding Robot,Educational Toy,Yogyakarta Plaza,4,284000,73703
+514,2024-11-20,Super Robot X,Action Figure,Surabaya Mall,3,171000,53899
+515,2025-07-13,Space Blocks,Building Blocks,Surabaya Mall,11,330000,95924
+516,2024-03-10,Super Robot X,Action Figure,Medan Center,1,41000,6311
+517,2024-10-20,Dragon Defender,Action Figure,Medan Center,11,1089000,245310
+518,2025-02-15,Dream House Doll,Doll,Bali Beachwalk,2,178000,41677
+519,2024-03-26,Mega Builder,Building Blocks,Surabaya Mall,5,90000,20504
+520,2024-11-30,Science Lab Kit,Educational Toy,Medan Center,7,581000,150231
+521,2025-12-16,Water Blaster,Outdoor Toy,Surabaya Mall,7,707000,239218
+522,2024-03-29,Math Puzzle Cube,Educational Toy,Bandung Square,15,945000,121901
+523,2025-11-13,Creative Bricks Set,Building Blocks,Surabaya Mall,12,1104000,314821
+524,2024-05-20,Super Robot X,Action Figure,Bali Beachwalk,12,108000,15223
+525,2025-01-15,Mystery Mansion,Board Game,Bandung Square,3,309000,91241
+526,2024-12-09,Treasure Hunt,Board Game,Jakarta Central,13,806000,135404
+527,2025-08-13,Mini Ninja Hero,Action Figure,Bali Beachwalk,11,187000,41894
+528,2025-05-26,City Construction Kit,Building Blocks,Jakarta Central,14,1120000,158726
+529,2025-08-10,Alphabet Blocks,Educational Toy,Jakarta Central,11,1100000,141716
+530,2024-01-13,Water Blaster,Outdoor Toy,Jakarta Central,4,52000,11332
+531,2024-02-06,Baby Joy,Doll,Bandung Square,9,990000,325202
+532,2024-11-25,Flying Disc,Outdoor Toy,Bandung Square,4,244000,80267
+533,2025-08-08,Mystery Mansion,Board Game,Jakarta Central,6,138000,31120
+534,2025-06-12,Galaxy Warrior,Action Figure,Bandung Square,1,59000,6916
+535,2024-12-01,Fashion Star,Doll,Surabaya Mall,2,156000,33413
+536,2025-07-31,Kingdom Strategy,Board Game,Surabaya Mall,13,598000,170366
+537,2025-08-28,Coding Robot,Educational Toy,Surabaya Mall,8,848000,249287
+538,2024-01-07,Kids Basketball Hoop,Outdoor Toy,Bandung Square,15,900000,95379
+539,2025-12-11,City Construction Kit,Building Blocks,Bali Beachwalk,15,135000,45595
+540,2024-11-10,Dragon Defender,Action Figure,Bali Beachwalk,2,68000,15806
+541,2024-03-02,Coding Robot,Educational Toy,Yogyakarta Plaza,3,297000,50477
+542,2025-02-26,Galaxy Warrior,Action Figure,Medan Center,12,660000,141645
+543,2024-04-07,Water Blaster,Outdoor Toy,Medan Center,9,225000,58343
+544,2025-08-04,Princess Bella,Doll,Medan Center,1,63000,16733
+545,2024-09-24,Science Lab Kit,Educational Toy,Surabaya Mall,14,672000,222775
+546,2025-04-08,Fashion Star,Doll,Surabaya Mall,5,185000,21954
+547,2024-04-21,Science Lab Kit,Educational Toy,Medan Center,3,63000,8888
+548,2024-05-03,Fashion Star,Doll,Yogyakarta Plaza,9,477000,162732
+549,2025-04-19,Coding Robot,Educational Toy,Surabaya Mall,5,585000,76037
+550,2025-12-14,Alphabet Blocks,Educational Toy,Bali Beachwalk,10,130000,19988
+551,2025-12-29,Kingdom Strategy,Board Game,Jakarta Central,4,212000,42200
+552,2024-06-27,Mini Ninja Hero,Action Figure,Surabaya Mall,1,59000,18505
+553,2025-04-18,Mega Builder,Building Blocks,Jakarta Central,2,220000,65659
+554,2024-08-15,Super Robot X,Action Figure,Jakarta Central,3,99000,30285
+555,2025-08-23,Treasure Hunt,Board Game,Medan Center,5,560000,66498
+556,2025-03-30,Galaxy Warrior,Action Figure,Bali Beachwalk,13,312000,38374
+557,2025-04-17,Treasure Hunt,Board Game,Jakarta Central,1,29000,9599
+558,2024-01-31,Dream House Doll,Doll,Yogyakarta Plaza,7,665000,137432
+559,2024-10-08,Kingdom Strategy,Board Game,Bandung Square,5,325000,104278
+560,2024-10-29,Galaxy Warrior,Action Figure,Bali Beachwalk,8,480000,153933
+561,2024-10-13,Princess Bella,Doll,Jakarta Central,7,175000,35841
+562,2025-07-10,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,13,130000,45155
+563,2025-07-11,Bubble Machine,Outdoor Toy,Yogyakarta Plaza,13,910000,169267
+564,2024-10-03,City Construction Kit,Building Blocks,Yogyakarta Plaza,3,33000,5930
+565,2024-02-29,Math Puzzle Cube,Educational Toy,Surabaya Mall,13,884000,205404
+566,2024-04-12,Mega Builder,Building Blocks,Bandung Square,4,368000,58986
+567,2025-08-12,Creative Bricks Set,Building Blocks,Bandung Square,14,1540000,303542
+568,2025-08-29,Science Lab Kit,Educational Toy,Bandung Square,6,666000,189494
+569,2025-12-18,Treasure Hunt,Board Game,Bali Beachwalk,6,480000,115632
+570,2025-07-09,Mega Builder,Building Blocks,Yogyakarta Plaza,5,150000,33391
+571,2025-09-08,Super Robot X,Action Figure,Bandung Square,4,40000,9264
+572,2024-07-25,Mini Ninja Hero,Action Figure,Medan Center,13,312000,57779
+573,2024-01-23,Alphabet Blocks,Educational Toy,Jakarta Central,3,249000,68767
+574,2025-01-08,Math Puzzle Cube,Educational Toy,Medan Center,2,110000,30374
+575,2024-04-13,Flying Disc,Outdoor Toy,Medan Center,6,276000,49859
+576,2025-05-13,Coding Robot,Educational Toy,Bali Beachwalk,11,528000,75794
+577,2025-11-12,City Construction Kit,Building Blocks,Bandung Square,10,1120000,161098
+578,2024-06-30,Mystery Mansion,Board Game,Bandung Square,12,96000,32370
+579,2024-02-03,Space Blocks,Building Blocks,Medan Center,3,255000,45786
+580,2025-08-02,Mega Builder,Building Blocks,Bali Beachwalk,2,142000,19192
+581,2024-12-21,Water Blaster,Outdoor Toy,Bandung Square,6,174000,45074
+582,2024-01-12,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,5,170000,27605
+583,2024-04-20,Mini Ninja Hero,Action Figure,Surabaya Mall,12,96000,10755
+584,2025-02-27,Dream House Doll,Doll,Bandung Square,8,960000,186891
+585,2025-05-05,Space Blocks,Building Blocks,Jakarta Central,13,1534000,375084
+586,2025-04-07,Kids Basketball Hoop,Outdoor Toy,Bandung Square,2,220000,68516
+587,2024-09-24,Treasure Hunt,Board Game,Surabaya Mall,2,34000,6305
+588,2024-03-17,Baby Joy,Doll,Bali Beachwalk,9,171000,31547
+589,2024-02-01,Space Blocks,Building Blocks,Bali Beachwalk,7,637000,89975
+590,2024-04-13,Baby Joy,Doll,Jakarta Central,6,204000,70094
+591,2024-10-15,Fashion Star,Doll,Bali Beachwalk,5,190000,23556
+592,2024-02-25,Dream House Doll,Doll,Bandung Square,6,48000,9931
+593,2024-04-09,Word Challenge,Board Game,Bandung Square,1,34000,4852
+594,2024-04-28,Treasure Hunt,Board Game,Yogyakarta Plaza,5,540000,107658
+595,2025-10-19,Fashion Star,Doll,Jakarta Central,9,513000,75011
+596,2025-04-01,Fashion Star,Doll,Bandung Square,1,41000,8607
+597,2025-07-31,Kingdom Strategy,Board Game,Surabaya Mall,1,27000,7777
+598,2025-11-15,Water Blaster,Outdoor Toy,Jakarta Central,6,666000,156751
+599,2024-03-03,Mega Builder,Building Blocks,Medan Center,14,798000,243071
+600,2024-08-29,Dream House Doll,Doll,Medan Center,8,368000,44063
+601,2025-08-07,Water Blaster,Outdoor Toy,Medan Center,15,1110000,333124
+602,2025-04-04,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,3,87000,29844
+603,2025-03-09,Science Lab Kit,Educational Toy,Jakarta Central,2,190000,39681
+604,2024-09-21,Kids Basketball Hoop,Outdoor Toy,Medan Center,6,606000,199097
+605,2025-07-23,Super Robot X,Action Figure,Yogyakarta Plaza,7,546000,99116
+606,2025-12-18,Word Challenge,Board Game,Jakarta Central,10,830000,191431
+607,2024-06-02,Princess Bella,Doll,Yogyakarta Plaza,3,240000,59276
+608,2024-04-13,Super Robot X,Action Figure,Medan Center,13,572000,181248
+609,2025-01-27,Word Challenge,Board Game,Surabaya Mall,11,770000,187114
+610,2024-10-09,Princess Bella,Doll,Bandung Square,7,182000,46330
+611,2025-02-09,Flying Disc,Outdoor Toy,Jakarta Central,15,1800000,329172
+612,2025-05-01,Math Puzzle Cube,Educational Toy,Bali Beachwalk,15,630000,204282
+613,2024-11-14,Mini Ninja Hero,Action Figure,Surabaya Mall,5,575000,128170
+614,2024-05-17,Water Blaster,Outdoor Toy,Bandung Square,5,515000,108550
+615,2025-03-02,Mystery Mansion,Board Game,Bali Beachwalk,10,900000,110089
+616,2025-05-11,Baby Joy,Doll,Yogyakarta Plaza,13,962000,304758
+617,2024-11-14,Galaxy Warrior,Action Figure,Jakarta Central,12,864000,173531
+618,2024-07-16,Creative Bricks Set,Building Blocks,Bandung Square,15,1710000,256810
+619,2025-04-12,Galaxy Warrior,Action Figure,Jakarta Central,1,54000,14912
+620,2025-06-01,Mystery Mansion,Board Game,Yogyakarta Plaza,7,623000,206068
+621,2025-01-16,Water Blaster,Outdoor Toy,Bandung Square,8,672000,142145
+622,2024-06-16,Fashion Star,Doll,Surabaya Mall,14,574000,164875
+623,2024-01-29,Water Blaster,Outdoor Toy,Surabaya Mall,7,98000,13791
+624,2025-10-24,Mega Builder,Building Blocks,Bandung Square,4,376000,57032
+625,2024-01-21,Flying Disc,Outdoor Toy,Medan Center,14,1498000,511993
+626,2024-05-15,Water Blaster,Outdoor Toy,Yogyakarta Plaza,11,330000,82594
+627,2025-09-14,Galaxy Warrior,Action Figure,Surabaya Mall,13,611000,169971
+628,2025-01-20,Bubble Machine,Outdoor Toy,Yogyakarta Plaza,14,728000,156337
+629,2025-11-24,Coding Robot,Educational Toy,Surabaya Mall,9,1017000,260251
+630,2025-06-07,Creative Bricks Set,Building Blocks,Jakarta Central,11,1265000,391953
+631,2025-12-01,City Construction Kit,Building Blocks,Surabaya Mall,2,138000,16002
+632,2024-09-24,Mystery Mansion,Board Game,Surabaya Mall,11,1089000,368133
+633,2024-06-02,Bubble Machine,Outdoor Toy,Bandung Square,9,945000,151271
+634,2024-11-23,Dragon Defender,Action Figure,Bali Beachwalk,11,275000,77088
+635,2024-09-22,Flying Disc,Outdoor Toy,Surabaya Mall,15,915000,184052
+636,2025-12-26,Water Blaster,Outdoor Toy,Medan Center,10,1120000,165176
+637,2025-07-01,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,11,1188000,260093
+638,2024-11-03,Bubble Machine,Outdoor Toy,Medan Center,14,406000,125924
+639,2024-04-09,Mega Builder,Building Blocks,Surabaya Mall,8,192000,54764
+640,2024-12-09,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,11,209000,32512
+641,2024-12-05,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,6,246000,60612
+642,2024-02-24,Princess Bella,Doll,Yogyakarta Plaza,14,1246000,306383
+643,2024-07-18,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,9,207000,65593
+644,2024-02-25,Fashion Star,Doll,Yogyakarta Plaza,14,1638000,225543
+645,2025-08-06,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,15,990000,134447
+646,2025-05-14,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,6,528000,183036
+647,2025-04-07,Treasure Hunt,Board Game,Jakarta Central,5,170000,49350
+648,2024-03-31,Science Lab Kit,Educational Toy,Yogyakarta Plaza,3,258000,53774
+649,2025-05-03,Dream House Doll,Doll,Yogyakarta Plaza,7,56000,6128
+650,2024-11-25,Alphabet Blocks,Educational Toy,Jakarta Central,13,1482000,344948
+651,2024-09-11,Super Robot X,Action Figure,Bali Beachwalk,4,384000,122590
+652,2025-01-27,Kingdom Strategy,Board Game,Jakarta Central,9,747000,131866
+653,2024-10-24,Super Robot X,Action Figure,Surabaya Mall,8,808000,185898
+654,2025-12-04,City Construction Kit,Building Blocks,Yogyakarta Plaza,3,153000,53402
+655,2024-06-17,Fashion Star,Doll,Bandung Square,15,1665000,334411
+656,2024-05-14,Science Lab Kit,Educational Toy,Bali Beachwalk,4,404000,42613
+657,2025-01-10,Mega Builder,Building Blocks,Jakarta Central,12,1092000,325450
+658,2025-09-30,Fashion Star,Doll,Medan Center,1,84000,29288
+659,2024-01-21,Water Blaster,Outdoor Toy,Bali Beachwalk,1,96000,12378
+660,2025-07-14,Dream House Doll,Doll,Jakarta Central,5,340000,93658
+661,2025-03-06,Math Puzzle Cube,Educational Toy,Surabaya Mall,11,220000,58436
+662,2024-04-17,Kingdom Strategy,Board Game,Yogyakarta Plaza,9,900000,228982
+663,2025-05-24,Treasure Hunt,Board Game,Jakarta Central,4,340000,50978
+664,2025-12-21,Kingdom Strategy,Board Game,Surabaya Mall,7,315000,44129
+665,2025-12-05,Space Blocks,Building Blocks,Bandung Square,15,1035000,189043
+666,2024-04-01,Super Robot X,Action Figure,Bali Beachwalk,15,330000,101906
+667,2024-04-02,Flying Disc,Outdoor Toy,Bandung Square,13,949000,112705
+668,2025-10-21,Water Blaster,Outdoor Toy,Surabaya Mall,4,264000,91651
+669,2024-02-21,Mystery Mansion,Board Game,Yogyakarta Plaza,2,224000,32183
+670,2025-11-24,Mini Ninja Hero,Action Figure,Surabaya Mall,6,372000,105884
+671,2024-05-21,Super Robot X,Action Figure,Jakarta Central,11,990000,141201
+672,2024-10-01,Word Challenge,Board Game,Medan Center,15,1515000,186705
+673,2025-02-14,Kingdom Strategy,Board Game,Jakarta Central,7,462000,77596
+674,2025-10-26,Dream House Doll,Doll,Yogyakarta Plaza,15,1650000,233796
+675,2024-04-16,Math Puzzle Cube,Educational Toy,Bandung Square,7,581000,128208
+676,2025-09-17,Space Blocks,Building Blocks,Bandung Square,7,749000,142047
+677,2025-05-14,Galaxy Warrior,Action Figure,Yogyakarta Plaza,2,120000,25220
+678,2024-11-17,Mini Ninja Hero,Action Figure,Bali Beachwalk,1,98000,31074
+679,2024-12-12,Mega Builder,Building Blocks,Bali Beachwalk,9,666000,181192
+680,2025-11-08,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,12,468000,103185
+681,2025-07-25,Flying Disc,Outdoor Toy,Bandung Square,15,1290000,146597
+682,2025-04-25,Kids Basketball Hoop,Outdoor Toy,Medan Center,14,994000,315449
+683,2024-09-03,Dragon Defender,Action Figure,Surabaya Mall,6,258000,29047
+684,2024-08-28,Coding Robot,Educational Toy,Yogyakarta Plaza,2,132000,27858
+685,2025-05-25,Space Blocks,Building Blocks,Jakarta Central,8,384000,49795
+686,2025-02-17,Princess Bella,Doll,Jakarta Central,7,84000,20099
+687,2025-09-25,Super Robot X,Action Figure,Medan Center,11,506000,163199
+688,2025-11-18,Mega Builder,Building Blocks,Bali Beachwalk,8,408000,77860
+689,2024-12-05,Galaxy Warrior,Action Figure,Yogyakarta Plaza,9,954000,243212
+690,2025-04-08,Fashion Star,Doll,Bali Beachwalk,2,40000,11593
+691,2024-12-29,Math Puzzle Cube,Educational Toy,Surabaya Mall,14,1246000,425021
+692,2024-04-18,Mystery Mansion,Board Game,Bali Beachwalk,1,29000,6470
+693,2024-09-17,Flying Disc,Outdoor Toy,Jakarta Central,10,330000,48472
+694,2024-07-14,Baby Joy,Doll,Yogyakarta Plaza,12,612000,77688
+695,2025-11-19,Princess Bella,Doll,Bali Beachwalk,10,230000,67398
+696,2025-08-26,Dream House Doll,Doll,Bali Beachwalk,9,225000,76716
+697,2025-03-19,Super Robot X,Action Figure,Medan Center,14,1148000,253401
+698,2025-08-15,Mega Builder,Building Blocks,Bali Beachwalk,3,303000,92054
+699,2025-09-06,Dragon Defender,Action Figure,Bali Beachwalk,10,1200000,216553
+700,2025-12-10,Dream House Doll,Doll,Medan Center,13,507000,85378
+701,2024-05-16,Mystery Mansion,Board Game,Yogyakarta Plaza,3,180000,45113
+702,2025-07-14,Bubble Machine,Outdoor Toy,Bali Beachwalk,14,672000,186794
+703,2024-08-02,Mega Builder,Building Blocks,Bandung Square,10,990000,170918
+704,2025-10-27,Kingdom Strategy,Board Game,Bali Beachwalk,3,216000,50894
+705,2024-04-28,Bubble Machine,Outdoor Toy,Bali Beachwalk,13,689000,165752
+706,2025-06-30,Space Blocks,Building Blocks,Bali Beachwalk,5,600000,187095
+707,2025-01-25,Super Robot X,Action Figure,Jakarta Central,3,42000,11237
+708,2024-10-20,Alphabet Blocks,Educational Toy,Bandung Square,11,440000,60107
+709,2025-07-08,Mini Ninja Hero,Action Figure,Bandung Square,1,53000,16085
+710,2025-10-24,Galaxy Warrior,Action Figure,Bali Beachwalk,9,513000,81771
+711,2025-11-11,Bubble Machine,Outdoor Toy,Bali Beachwalk,1,56000,11025
+712,2024-02-25,Bubble Machine,Outdoor Toy,Medan Center,1,103000,16772
+713,2025-10-10,Space Blocks,Building Blocks,Bandung Square,12,1176000,308003
+714,2024-07-17,Mega Builder,Building Blocks,Bali Beachwalk,5,325000,46915
+715,2024-06-26,Water Blaster,Outdoor Toy,Bandung Square,12,876000,113738
+716,2025-07-23,Dragon Defender,Action Figure,Surabaya Mall,5,120000,16827
+717,2025-04-22,Treasure Hunt,Board Game,Surabaya Mall,12,324000,35635
+718,2025-09-22,Treasure Hunt,Board Game,Bali Beachwalk,14,1288000,225771
+719,2025-12-25,City Construction Kit,Building Blocks,Jakarta Central,6,450000,69745
+720,2024-06-12,Math Puzzle Cube,Educational Toy,Medan Center,7,539000,126265
+721,2024-08-06,Mini Ninja Hero,Action Figure,Bandung Square,11,550000,100521
+722,2025-06-27,Kingdom Strategy,Board Game,Medan Center,8,632000,193342
+723,2025-11-15,Water Blaster,Outdoor Toy,Jakarta Central,6,390000,62433
+724,2025-11-29,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,15,735000,143577
+725,2025-07-07,Dragon Defender,Action Figure,Surabaya Mall,12,528000,56061
+726,2025-06-04,City Construction Kit,Building Blocks,Medan Center,8,560000,62139
+727,2025-06-10,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,2,40000,5673
+728,2024-03-08,Creative Bricks Set,Building Blocks,Bali Beachwalk,4,372000,95744
+729,2024-07-29,Coding Robot,Educational Toy,Jakarta Central,9,1026000,282853
+730,2024-03-14,Flying Disc,Outdoor Toy,Bali Beachwalk,12,1140000,157820
+731,2024-03-30,Fashion Star,Doll,Jakarta Central,2,28000,4045
+732,2024-08-21,Treasure Hunt,Board Game,Medan Center,15,615000,124173
+733,2024-11-19,Dream House Doll,Doll,Yogyakarta Plaza,1,57000,15294
+734,2025-09-25,Creative Bricks Set,Building Blocks,Bali Beachwalk,2,208000,59589
+735,2025-05-29,Super Robot X,Action Figure,Surabaya Mall,2,90000,26705
+736,2025-03-24,Treasure Hunt,Board Game,Surabaya Mall,7,406000,124045
+737,2025-06-30,Dragon Defender,Action Figure,Bandung Square,4,100000,28668
+738,2024-05-27,City Construction Kit,Building Blocks,Bali Beachwalk,5,470000,151219
+739,2025-07-20,Bubble Machine,Outdoor Toy,Jakarta Central,14,1106000,149689
+740,2025-09-02,Super Robot X,Action Figure,Medan Center,7,532000,126020
+741,2024-12-18,Mini Ninja Hero,Action Figure,Bandung Square,4,240000,78337
+742,2024-07-07,Mega Builder,Building Blocks,Bandung Square,4,344000,106188
+743,2025-11-18,Math Puzzle Cube,Educational Toy,Bandung Square,13,1040000,325585
+744,2025-07-16,Space Blocks,Building Blocks,Bali Beachwalk,2,90000,24112
+745,2025-08-17,Treasure Hunt,Board Game,Bandung Square,8,400000,75713
+746,2024-10-18,Kids Basketball Hoop,Outdoor Toy,Jakarta Central,10,160000,52004
+747,2024-12-02,Word Challenge,Board Game,Yogyakarta Plaza,10,920000,162305
+748,2025-08-03,Mega Builder,Building Blocks,Medan Center,6,666000,119269
+749,2024-11-16,Baby Joy,Doll,Jakarta Central,4,432000,67124
+750,2025-01-03,Flying Disc,Outdoor Toy,Surabaya Mall,3,282000,79874
+751,2025-01-02,Dream House Doll,Doll,Yogyakarta Plaza,13,611000,135484
+752,2025-09-13,Galaxy Warrior,Action Figure,Bali Beachwalk,2,230000,39135
+753,2025-10-03,Science Lab Kit,Educational Toy,Surabaya Mall,2,202000,24007
+754,2025-08-15,Super Robot X,Action Figure,Medan Center,7,742000,183651
+755,2025-07-06,Mini Ninja Hero,Action Figure,Medan Center,8,728000,213885
+756,2025-08-26,Word Challenge,Board Game,Bandung Square,12,1404000,242540
+757,2025-01-07,Princess Bella,Doll,Yogyakarta Plaza,9,81000,21519
+758,2024-05-23,Mega Builder,Building Blocks,Medan Center,8,224000,32432
+759,2025-05-10,Mega Builder,Building Blocks,Bali Beachwalk,6,78000,12066
+760,2024-09-27,Baby Joy,Doll,Jakarta Central,6,222000,24575
+761,2025-04-25,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,15,990000,317184
+762,2025-12-21,Mini Ninja Hero,Action Figure,Jakarta Central,9,801000,246236
+763,2025-07-11,Bubble Machine,Outdoor Toy,Medan Center,10,300000,58249
+764,2025-10-31,Fashion Star,Doll,Medan Center,15,1710000,204275
+765,2025-06-12,Word Challenge,Board Game,Bandung Square,7,371000,112898
+766,2025-09-10,Word Challenge,Board Game,Yogyakarta Plaza,1,72000,23076
+767,2024-03-19,Baby Joy,Doll,Bandung Square,9,810000,137863
+768,2025-01-05,Science Lab Kit,Educational Toy,Bandung Square,10,990000,301196
+769,2024-12-04,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,12,264000,58180
+770,2025-08-27,Dream House Doll,Doll,Bandung Square,3,270000,83252
+771,2024-05-10,Galaxy Warrior,Action Figure,Jakarta Central,10,830000,116434
+772,2024-05-30,Water Blaster,Outdoor Toy,Medan Center,1,29000,4772
+773,2025-07-31,Coding Robot,Educational Toy,Medan Center,11,110000,35159
+774,2024-08-09,Bubble Machine,Outdoor Toy,Jakarta Central,8,680000,236771
+775,2025-02-24,Baby Joy,Doll,Bandung Square,10,260000,77650
+776,2025-12-03,Alphabet Blocks,Educational Toy,Bandung Square,6,396000,98656
+777,2025-01-29,Galaxy Warrior,Action Figure,Yogyakarta Plaza,3,63000,6560
+778,2025-09-12,Space Blocks,Building Blocks,Bandung Square,2,60000,13138
+779,2025-05-30,Creative Bricks Set,Building Blocks,Medan Center,13,299000,36865
+780,2025-07-06,Kids Basketball Hoop,Outdoor Toy,Medan Center,14,112000,36315
+781,2025-03-06,Flying Disc,Outdoor Toy,Medan Center,6,714000,79153
+782,2025-05-08,Space Blocks,Building Blocks,Bandung Square,13,1378000,269135
+783,2024-05-17,Creative Bricks Set,Building Blocks,Yogyakarta Plaza,5,345000,100555
+784,2025-07-10,Mini Ninja Hero,Action Figure,Medan Center,7,280000,41231
+785,2025-06-19,Water Blaster,Outdoor Toy,Medan Center,2,148000,15066
+786,2024-11-19,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,7,378000,47872
+787,2025-07-02,Fashion Star,Doll,Surabaya Mall,7,560000,107190
+788,2025-02-27,Word Challenge,Board Game,Bandung Square,9,972000,232687
+789,2025-07-22,Alphabet Blocks,Educational Toy,Medan Center,8,320000,111080
+790,2025-02-11,City Construction Kit,Building Blocks,Bali Beachwalk,12,300000,94124
+791,2024-08-23,Water Blaster,Outdoor Toy,Bali Beachwalk,8,864000,237451
+792,2025-06-04,Math Puzzle Cube,Educational Toy,Bandung Square,7,756000,139564
+793,2025-02-02,Creative Bricks Set,Building Blocks,Bandung Square,11,88000,26496
+794,2025-03-21,Coding Robot,Educational Toy,Medan Center,2,32000,5304
+795,2024-02-08,Treasure Hunt,Board Game,Medan Center,12,684000,227547
+796,2025-09-03,Fashion Star,Doll,Bali Beachwalk,1,107000,32641
+797,2024-01-11,Flying Disc,Outdoor Toy,Yogyakarta Plaza,4,464000,122598
+798,2024-02-04,City Construction Kit,Building Blocks,Bandung Square,13,1092000,248579
+799,2024-06-22,Kids Basketball Hoop,Outdoor Toy,Medan Center,11,132000,25071
+800,2024-03-29,Water Blaster,Outdoor Toy,Bandung Square,5,535000,106924
+801,2025-08-23,Flying Disc,Outdoor Toy,Yogyakarta Plaza,4,296000,30737
+802,2025-07-16,Water Blaster,Outdoor Toy,Jakarta Central,5,500000,153720
+803,2024-10-10,City Construction Kit,Building Blocks,Surabaya Mall,4,340000,115859
+804,2024-01-05,Dream House Doll,Doll,Medan Center,5,150000,30267
+805,2024-10-28,Super Robot X,Action Figure,Medan Center,6,132000,39697
+806,2025-03-29,Mystery Mansion,Board Game,Bali Beachwalk,7,560000,123708
+807,2025-11-28,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,8,664000,209495
+808,2024-03-10,Princess Bella,Doll,Surabaya Mall,7,623000,185133
+809,2025-02-26,Science Lab Kit,Educational Toy,Surabaya Mall,6,444000,103857
+810,2024-10-21,Bubble Machine,Outdoor Toy,Bandung Square,2,118000,31674
+811,2024-07-01,Treasure Hunt,Board Game,Medan Center,8,384000,72339
+812,2025-11-30,City Construction Kit,Building Blocks,Bandung Square,15,480000,107879
+813,2024-09-04,Science Lab Kit,Educational Toy,Bali Beachwalk,14,574000,87072
+814,2024-12-30,Science Lab Kit,Educational Toy,Medan Center,3,321000,40661
+815,2024-01-07,Dragon Defender,Action Figure,Medan Center,13,1521000,357995
+816,2025-09-27,Dragon Defender,Action Figure,Surabaya Mall,6,426000,138249
+817,2024-07-06,City Construction Kit,Building Blocks,Yogyakarta Plaza,13,949000,161393
+818,2025-06-22,Science Lab Kit,Educational Toy,Jakarta Central,13,806000,176981
+819,2024-12-21,Creative Bricks Set,Building Blocks,Medan Center,7,826000,224328
+820,2025-12-16,Coding Robot,Educational Toy,Jakarta Central,9,594000,106274
+821,2024-08-03,Super Robot X,Action Figure,Bali Beachwalk,7,574000,71857
+822,2025-07-15,Mystery Mansion,Board Game,Bandung Square,5,190000,31796
+823,2024-07-07,City Construction Kit,Building Blocks,Surabaya Mall,8,496000,75706
+824,2025-02-14,Bubble Machine,Outdoor Toy,Surabaya Mall,5,325000,47116
+825,2024-10-03,Science Lab Kit,Educational Toy,Jakarta Central,13,494000,117984
+826,2024-06-02,Baby Joy,Doll,Bandung Square,8,888000,90962
+827,2025-10-07,Dream House Doll,Doll,Bandung Square,9,684000,191615
+828,2025-07-29,Fashion Star,Doll,Surabaya Mall,14,1120000,125358
+829,2024-08-08,Galaxy Warrior,Action Figure,Jakarta Central,14,560000,122715
+830,2024-12-08,Water Blaster,Outdoor Toy,Yogyakarta Plaza,5,270000,51320
+831,2024-01-21,City Construction Kit,Building Blocks,Surabaya Mall,7,161000,30231
+832,2025-08-12,Kids Basketball Hoop,Outdoor Toy,Medan Center,11,1001000,234844
+833,2025-11-20,Mystery Mansion,Board Game,Surabaya Mall,9,630000,185022
+834,2025-09-20,Princess Bella,Doll,Yogyakarta Plaza,5,335000,86405
+835,2024-12-11,Science Lab Kit,Educational Toy,Bali Beachwalk,7,616000,155895
+836,2024-06-14,Princess Bella,Doll,Jakarta Central,6,222000,39598
+837,2024-09-30,Bubble Machine,Outdoor Toy,Bali Beachwalk,10,900000,178977
+838,2025-08-24,Fashion Star,Doll,Bali Beachwalk,9,585000,119045
+839,2024-08-28,Math Puzzle Cube,Educational Toy,Bandung Square,11,440000,147448
+840,2024-06-19,Water Blaster,Outdoor Toy,Bandung Square,7,147000,18211
+841,2025-02-10,Princess Bella,Doll,Jakarta Central,9,945000,329808
+842,2024-06-08,Mini Ninja Hero,Action Figure,Medan Center,2,182000,60587
+843,2024-09-10,Fashion Star,Doll,Bandung Square,12,528000,111297
+844,2024-06-23,Science Lab Kit,Educational Toy,Medan Center,1,12000,3190
+845,2025-07-07,Word Challenge,Board Game,Yogyakarta Plaza,15,630000,149395
+846,2025-09-03,Science Lab Kit,Educational Toy,Medan Center,8,704000,202208
+847,2025-10-17,Space Blocks,Building Blocks,Medan Center,11,836000,148319
+848,2024-08-20,Word Challenge,Board Game,Medan Center,13,247000,51984
+849,2024-06-08,Word Challenge,Board Game,Surabaya Mall,5,45000,4501
+850,2025-04-25,Alphabet Blocks,Educational Toy,Surabaya Mall,9,81000,22027
+851,2024-01-10,Dream House Doll,Doll,Surabaya Mall,13,819000,245283
+852,2025-07-15,Mega Builder,Building Blocks,Jakarta Central,6,192000,38963
+853,2024-09-12,Space Blocks,Building Blocks,Yogyakarta Plaza,3,297000,84431
+854,2024-09-26,Dream House Doll,Doll,Bandung Square,2,124000,31785
+855,2025-10-26,City Construction Kit,Building Blocks,Surabaya Mall,12,912000,275608
+856,2024-07-05,Baby Joy,Doll,Jakarta Central,3,135000,17224
+857,2025-12-18,Dream House Doll,Doll,Surabaya Mall,10,700000,102863
+858,2025-07-01,Galaxy Warrior,Action Figure,Jakarta Central,1,31000,10635
+859,2025-03-24,Mystery Mansion,Board Game,Bandung Square,12,108000,17085
+860,2024-08-10,Math Puzzle Cube,Educational Toy,Yogyakarta Plaza,6,366000,65109
+861,2025-12-14,Fashion Star,Doll,Yogyakarta Plaza,13,156000,28479
+862,2025-02-05,Math Puzzle Cube,Educational Toy,Surabaya Mall,2,154000,33500
+863,2024-01-13,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,2,212000,59078
+864,2024-02-04,Dream House Doll,Doll,Bandung Square,4,264000,74931
+865,2025-02-02,Galaxy Warrior,Action Figure,Yogyakarta Plaza,11,517000,172705
+866,2025-07-16,Math Puzzle Cube,Educational Toy,Bali Beachwalk,9,207000,33808
+867,2025-01-04,Bubble Machine,Outdoor Toy,Bandung Square,15,210000,66342
+868,2025-10-10,Math Puzzle Cube,Educational Toy,Bandung Square,7,343000,35592
+869,2024-09-05,Treasure Hunt,Board Game,Yogyakarta Plaza,1,13000,3188
+870,2025-09-02,Flying Disc,Outdoor Toy,Bali Beachwalk,3,165000,48295
+871,2024-04-03,Science Lab Kit,Educational Toy,Yogyakarta Plaza,11,957000,176667
+872,2024-12-30,Water Blaster,Outdoor Toy,Jakarta Central,11,297000,81773
+873,2024-08-26,Galaxy Warrior,Action Figure,Yogyakarta Plaza,6,474000,140844
+874,2024-07-16,Word Challenge,Board Game,Bali Beachwalk,1,96000,18666
+875,2024-02-10,Kids Basketball Hoop,Outdoor Toy,Surabaya Mall,8,784000,164150
+876,2025-08-03,Word Challenge,Board Game,Bandung Square,3,231000,43177
+877,2025-09-05,Flying Disc,Outdoor Toy,Surabaya Mall,15,1770000,422375
+878,2024-10-29,Galaxy Warrior,Action Figure,Yogyakarta Plaza,14,574000,135120
+879,2025-06-02,Princess Bella,Doll,Bali Beachwalk,7,707000,103493
+880,2024-09-01,Mini Ninja Hero,Action Figure,Medan Center,6,600000,69501
+881,2025-06-20,Space Blocks,Building Blocks,Bandung Square,11,781000,227609
+882,2025-02-23,Alphabet Blocks,Educational Toy,Surabaya Mall,11,539000,68785
+883,2024-05-12,Creative Bricks Set,Building Blocks,Jakarta Central,3,357000,38491
+884,2024-04-11,Dragon Defender,Action Figure,Bandung Square,1,81000,21095
+885,2025-09-30,Dream House Doll,Doll,Medan Center,12,996000,163328
+886,2024-03-13,Kingdom Strategy,Board Game,Medan Center,1,34000,8973
+887,2024-03-03,Dragon Defender,Action Figure,Bali Beachwalk,6,474000,135502
+888,2024-02-29,Fashion Star,Doll,Bali Beachwalk,14,1204000,200410
+889,2024-03-20,Super Robot X,Action Figure,Surabaya Mall,4,296000,36786
+890,2025-01-29,Kids Basketball Hoop,Outdoor Toy,Medan Center,4,128000,29638
+891,2025-07-25,Science Lab Kit,Educational Toy,Medan Center,7,721000,91118
+892,2025-04-14,Bubble Machine,Outdoor Toy,Bali Beachwalk,12,1116000,230753
+893,2025-07-17,Galaxy Warrior,Action Figure,Bandung Square,7,504000,92926
+894,2024-11-18,Coding Robot,Educational Toy,Surabaya Mall,9,441000,137245
+895,2024-11-27,Dream House Doll,Doll,Bali Beachwalk,10,380000,91498
+896,2024-09-17,Coding Robot,Educational Toy,Medan Center,6,390000,82631
+897,2024-02-05,Princess Bella,Doll,Bali Beachwalk,5,420000,43711
+898,2024-11-03,Alphabet Blocks,Educational Toy,Jakarta Central,4,140000,43950
+899,2025-06-07,Mini Ninja Hero,Action Figure,Medan Center,9,729000,241649
+900,2025-04-16,Math Puzzle Cube,Educational Toy,Jakarta Central,6,162000,21805
+901,2024-09-19,Kingdom Strategy,Board Game,Bandung Square,13,598000,73539
+902,2024-03-20,Baby Joy,Doll,Bali Beachwalk,12,588000,175356
+903,2025-12-20,Coding Robot,Educational Toy,Bali Beachwalk,10,1120000,366143
+904,2025-08-13,City Construction Kit,Building Blocks,Jakarta Central,7,126000,37173
+905,2025-03-02,Mystery Mansion,Board Game,Yogyakarta Plaza,15,1785000,232291
+906,2025-10-09,Math Puzzle Cube,Educational Toy,Bali Beachwalk,7,98000,17267
+907,2025-08-01,Mini Ninja Hero,Action Figure,Medan Center,3,147000,33163
+908,2025-11-20,Science Lab Kit,Educational Toy,Jakarta Central,12,696000,238561
+909,2025-03-18,Creative Bricks Set,Building Blocks,Bandung Square,5,540000,107233
+910,2025-05-02,Alphabet Blocks,Educational Toy,Jakarta Central,10,1030000,115697
+911,2025-02-12,Fashion Star,Doll,Jakarta Central,9,567000,166389
+912,2025-07-26,Science Lab Kit,Educational Toy,Yogyakarta Plaza,4,280000,55672
+913,2025-09-22,Mega Builder,Building Blocks,Medan Center,12,900000,145405
+914,2024-11-27,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,11,891000,109057
+915,2025-01-09,Flying Disc,Outdoor Toy,Yogyakarta Plaza,6,192000,34595
+916,2024-06-22,Creative Bricks Set,Building Blocks,Surabaya Mall,6,516000,157584
+917,2024-02-15,Baby Joy,Doll,Yogyakarta Plaza,15,1680000,266065
+918,2024-03-28,Bubble Machine,Outdoor Toy,Bandung Square,2,204000,23181
+919,2024-01-15,Mega Builder,Building Blocks,Surabaya Mall,6,576000,173416
+920,2024-01-24,Word Challenge,Board Game,Yogyakarta Plaza,6,204000,58140
+921,2025-06-19,Science Lab Kit,Educational Toy,Medan Center,13,533000,126427
+922,2025-12-16,Mega Builder,Building Blocks,Bali Beachwalk,11,110000,21356
+923,2024-06-23,Water Blaster,Outdoor Toy,Surabaya Mall,1,44000,6607
+924,2025-04-21,Bubble Machine,Outdoor Toy,Jakarta Central,11,99000,11548
+925,2025-11-06,Bubble Machine,Outdoor Toy,Bali Beachwalk,6,708000,89896
+926,2025-01-24,Word Challenge,Board Game,Bandung Square,9,882000,110162
+927,2025-06-28,Word Challenge,Board Game,Medan Center,2,62000,9282
+928,2024-09-10,Princess Bella,Doll,Jakarta Central,15,1125000,198260
+929,2024-06-09,Dream House Doll,Doll,Bali Beachwalk,1,52000,14096
+930,2025-05-28,Mystery Mansion,Board Game,Bandung Square,5,555000,64103
+931,2025-07-22,Word Challenge,Board Game,Jakarta Central,5,180000,24826
+932,2025-01-26,Baby Joy,Doll,Jakarta Central,9,846000,214132
+933,2024-09-03,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,10,270000,55786
+934,2025-07-09,Mystery Mansion,Board Game,Yogyakarta Plaza,3,102000,26838
+935,2024-11-12,Mega Builder,Building Blocks,Bandung Square,12,1176000,381801
+936,2025-11-02,Coding Robot,Educational Toy,Bandung Square,15,1200000,395133
+937,2025-06-29,Treasure Hunt,Board Game,Medan Center,12,276000,40305
+938,2025-02-27,Math Puzzle Cube,Educational Toy,Surabaya Mall,7,322000,67861
+939,2024-07-11,Bubble Machine,Outdoor Toy,Bandung Square,2,48000,7016
+940,2025-08-03,City Construction Kit,Building Blocks,Medan Center,10,370000,92163
+941,2024-03-22,Math Puzzle Cube,Educational Toy,Surabaya Mall,12,1284000,281389
+942,2025-10-27,Space Blocks,Building Blocks,Bali Beachwalk,6,186000,58224
+943,2024-06-16,Dream House Doll,Doll,Bandung Square,4,144000,15560
+944,2024-08-15,Mini Ninja Hero,Action Figure,Yogyakarta Plaza,12,1116000,387319
+945,2025-03-25,Math Puzzle Cube,Educational Toy,Bandung Square,14,1204000,267872
+946,2025-03-13,Word Challenge,Board Game,Bandung Square,7,749000,82731
+947,2024-11-16,Flying Disc,Outdoor Toy,Bali Beachwalk,7,602000,201540
+948,2024-04-21,Creative Bricks Set,Building Blocks,Medan Center,8,528000,161965
+949,2025-07-04,Galaxy Warrior,Action Figure,Medan Center,7,714000,78406
+950,2024-10-25,Princess Bella,Doll,Bandung Square,8,464000,148990
+951,2025-03-08,Word Challenge,Board Game,Bandung Square,5,430000,141796
+952,2025-10-23,Kids Basketball Hoop,Outdoor Toy,Yogyakarta Plaza,8,152000,42660
+953,2025-12-13,Galaxy Warrior,Action Figure,Medan Center,9,225000,44610
+954,2024-07-02,Word Challenge,Board Game,Jakarta Central,8,664000,215238
+955,2024-09-13,Coding Robot,Educational Toy,Jakarta Central,6,576000,150995
+956,2024-05-06,Kids Basketball Hoop,Outdoor Toy,Bali Beachwalk,2,44000,12168
+957,2025-06-20,Bubble Machine,Outdoor Toy,Jakarta Central,12,684000,192695
+958,2025-07-17,Mega Builder,Building Blocks,Yogyakarta Plaza,7,91000,26577
+959,2024-05-28,Kingdom Strategy,Board Game,Bandung Square,3,318000,88407
+960,2025-04-01,Fashion Star,Doll,Surabaya Mall,5,440000,63876
+961,2025-09-29,Science Lab Kit,Educational Toy,Jakarta Central,13,520000,53587
+962,2024-01-06,Dream House Doll,Doll,Medan Center,10,1200000,268040
+963,2025-02-23,Coding Robot,Educational Toy,Yogyakarta Plaza,8,144000,36043
+964,2024-10-11,Galaxy Warrior,Action Figure,Medan Center,10,880000,210660
+965,2024-05-31,Math Puzzle Cube,Educational Toy,Bandung Square,1,91000,17040
+966,2025-08-14,Math Puzzle Cube,Educational Toy,Bali Beachwalk,14,1190000,207786
+967,2025-03-02,Super Robot X,Action Figure,Jakarta Central,3,84000,22513
+968,2025-08-15,Mega Builder,Building Blocks,Yogyakarta Plaza,6,72000,8876
+969,2025-01-23,Mystery Mansion,Board Game,Surabaya Mall,14,224000,64872
+970,2025-04-27,Creative Bricks Set,Building Blocks,Surabaya Mall,3,69000,18882
+971,2025-02-27,Mystery Mansion,Board Game,Medan Center,9,306000,83830
+972,2025-08-08,Creative Bricks Set,Building Blocks,Jakarta Central,12,1056000,245241
+973,2025-12-06,Dragon Defender,Action Figure,Bali Beachwalk,10,1080000,374295
+974,2024-11-20,Word Challenge,Board Game,Medan Center,5,375000,91419
+975,2025-09-21,City Construction Kit,Building Blocks,Bandung Square,10,710000,163247
+976,2024-07-03,Flying Disc,Outdoor Toy,Yogyakarta Plaza,15,1290000,204052
+977,2024-05-01,Kingdom Strategy,Board Game,Jakarta Central,1,67000,17176
+978,2025-02-28,Galaxy Warrior,Action Figure,Medan Center,7,91000,16693
+979,2025-10-17,Mega Builder,Building Blocks,Jakarta Central,4,384000,65436
+980,2025-06-02,Mini Ninja Hero,Action Figure,Surabaya Mall,9,441000,128665
+981,2025-02-09,Mini Ninja Hero,Action Figure,Surabaya Mall,12,960000,243838
+982,2024-12-04,Galaxy Warrior,Action Figure,Bandung Square,14,714000,236026
+983,2025-10-23,Dream House Doll,Doll,Jakarta Central,3,207000,28741
+984,2025-02-27,Fashion Star,Doll,Yogyakarta Plaza,15,1545000,176138
+985,2025-11-25,City Construction Kit,Building Blocks,Medan Center,6,474000,110902
+986,2024-03-08,Alphabet Blocks,Educational Toy,Surabaya Mall,3,129000,40013
+987,2025-07-01,Word Challenge,Board Game,Bali Beachwalk,14,406000,98554
+988,2024-04-29,Baby Joy,Doll,Medan Center,14,1512000,435282
+989,2024-02-02,Bubble Machine,Outdoor Toy,Bali Beachwalk,5,300000,36509
+990,2024-11-05,Alphabet Blocks,Educational Toy,Yogyakarta Plaza,4,300000,52673
+991,2024-07-25,Mini Ninja Hero,Action Figure,Jakarta Central,15,285000,60118
+992,2024-06-06,Dragon Defender,Action Figure,Medan Center,4,204000,67505
+993,2024-05-26,Bubble Machine,Outdoor Toy,Surabaya Mall,13,1547000,192698
+994,2024-02-07,Mega Builder,Building Blocks,Bandung Square,8,456000,126959
+995,2024-11-14,Creative Bricks Set,Building Blocks,Jakarta Central,15,195000,52993
+996,2025-04-23,Creative Bricks Set,Building Blocks,Surabaya Mall,15,195000,24526
+997,2025-08-14,Bubble Machine,Outdoor Toy,Jakarta Central,13,611000,158684
+998,2024-07-16,Alphabet Blocks,Educational Toy,Bandung Square,5,215000,50109
+999,2024-06-01,Princess Bella,Doll,Surabaya Mall,3,129000,16591
